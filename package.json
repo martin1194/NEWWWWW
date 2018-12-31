@@ -1,0 +1,13 @@
+{
+  "name": "機器人(TREEEEE)",
+  "description": "機器人(TREEEEE)",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
