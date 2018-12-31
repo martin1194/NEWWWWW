@@ -150,4 +150,4 @@ bot.on('guildMemberAdd', member => { // Make sure this is defined correctly.
 
 })
 
-bot.login('<token>');
+bot.login(process.env.BOT_TOKEN);
