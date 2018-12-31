@@ -1,6 +1,6 @@
 worker: node app.js
-worker: config.js
-worker: setchannel.js
-worker: setdm.js
-worker: setleave.js
-worker: setwelcome.js
+worker: node node config.js
+worker: node setchannel.js
+worker: node setdm.js
+worker: node setleave.js
+worker: node setwelcome.js
